@@ -1,23 +1,15 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+/*.iml
+/.idea/
+/unidbg-android/src/test/resources/unpack/*_unpacked.so
+/target/
+*.DS_Store
+**/dev/log
+/unidbg-android/src/test/native/android/obj/
+/unidbg-api/unidbg-api.iml
+/unidbg-api/target/
+/unidbg-android/unidbg-android.iml
+/unidbg-ios/unidbg-ios.iml
+/unidbg-ios/target/
+/unidbg-android/target/
+/backend/*/target/
+/backend/*/*.iml
