@@ -1,6 +1,7 @@
 package com.sun.jna;
 
 import com.github.unidbg.*;
+import com.github.unidbg.Module;
 import com.github.unidbg.arm.HookStatus;
 import com.github.unidbg.arm.backend.HypervisorFactory;
 import com.github.unidbg.arm.context.RegisterContext;
